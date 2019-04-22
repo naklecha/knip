@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/knip.py
+src/knip.egg-info/PKG-INFO
+src/knip.egg-info/SOURCES.txt
+src/knip.egg-info/dependency_links.txt
+src/knip.egg-info/top_level.txt
