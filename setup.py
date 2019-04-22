@@ -5,7 +5,7 @@ with open("README.md","r") as fh:
     
 setup(
     name="knip",
-    version="0.0.1",
+    version="0.0.3",
     description="Lets make coding hassle free!",
     py_modules=["knip"],
     package_dir={"":"src"},
